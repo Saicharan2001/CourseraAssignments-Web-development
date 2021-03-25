@@ -78,7 +78,7 @@ section {
 
 #chicken-div {
   margin-bottom: 10px;
-  margin-top: 10px;
+  margin-top: 10px
 }
 
 #beef-div {
@@ -139,7 +139,10 @@ hr {
 }
 
 .item {
-  color: white;
+  color: black;
   font-size: 1.2em;
   font-weight: bold;
+}
+.collapse{
+	background-color: #ffff99;
 }
