@@ -9,10 +9,10 @@ print("Welcome to my repository")
 
 This repository provides you with all the correct solutions of each and every assignment given in the course...
 
--module2-solution
--module3-solution
--module4-solution
--module5-solution
+1.module2-solution
+2.module3-solution
+3.module4-solution
+4.module5-solution
 
 **Optional**
 
